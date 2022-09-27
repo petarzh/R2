@@ -66,7 +66,7 @@ namespace SirmaCSV
 
             }
 
-            MessageBox.Show("Lazzy grid binding ;) The longest pair of employess -> Employee1:" + empGridMax.Employee1 + ", Employee2" + empGridMax.Employee2 + ", Max Days:" + empGridMax.Days);
+            MessageBox.Show("Lazzy grid binding ;) The longest pair of employess -> Employee1: " + empGridMax.Employee1 + ", Employee2: " + empGridMax.Employee2 + ", Max Days: " + empGridMax.Days);
 
         }
 
